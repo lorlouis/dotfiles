@@ -1,1 +1,1 @@
-/home/lor_louis/.vim/ftdetect/plan.vim
+autocmd BufRead,BufNewFile *.plan set filetype=plan
