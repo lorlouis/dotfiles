@@ -1,0 +1,6 @@
+#ifndef \:eval(toupper("\%:t:r_h"))
+#define \:eval(toupper("\%:t:r_h")) 1
+
+\:eval(substitute(join(readfile(expand("%:t:r") . ".c", "",), "\r"), '\m\_s\?{\_.\{-}\r}', ";", "ge"))
+
+#endif

@@ -1,0 +1,1 @@
+/home/lor_louis/.vim/ftdetect/plan.vim

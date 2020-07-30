@@ -1,0 +1,1 @@
+/home/lor_louis/.vim/syntax/plan.vim

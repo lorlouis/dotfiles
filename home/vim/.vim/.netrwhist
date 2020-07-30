@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/lor_louis/Documents/Projects/Python/scrapyd_cm2'
+let g:netrw_dirhist_2='/home/lor_louis/Documents/Projects/Python'
+let g:netrw_dirhist_1='/home/lor_louis/Documents/Projects/Python/scrapyd_cluster_manager'
+let g:netrw_dirhist_0='/home/lor_louis/Documents/Projects/Python/ji-devScraper'
+let g:netrw_dirhist_9='/home/lor_louis/Documents/Projects/Python/scrapyd_cluster_manager'
+let g:netrw_dirhist_8='/home/lor_louis/Documents/Projects/Python'
+let g:netrw_dirhist_7='/home/lor_louis/Documents/Projects/Python/ji-devScraper'
+let g:netrw_dirhist_6='/home/lor_louis/Documents/Projects/Python/scrapyd_cluster_manager'
+let g:netrw_dirhist_5='/home/lor_louis/Documents/Projects/Python'
+let g:netrw_dirhist_4='/home/lor_louis/Documents/Projects'
